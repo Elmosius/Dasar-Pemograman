@@ -1,0 +1,4 @@
+A = [7, 12, 2, 4, 1, 36, 88, 100]
+
+Mengurutkan dengan kecil ke besar
+# menggunakan algoritma insertion sort
