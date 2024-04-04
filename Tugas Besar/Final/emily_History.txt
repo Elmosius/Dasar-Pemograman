@@ -1,0 +1,7 @@
+
+MoonCake, Kueh berbentuk Bulan,30000,s
+MoonCake, Kueh berbentuk Bulan,30000,s
+MoonCake, Kueh berbentuk Bulan,30000,s
+Mocha Cake,Kue rasa mocha yang lezat dan rasanya pas,70000,m
+Kaastengels Cake, Kue dengan perpaduan bolu yang lembut dan kastengel renyah,120000,m
+LemonCake,Kue Lemon,300000,

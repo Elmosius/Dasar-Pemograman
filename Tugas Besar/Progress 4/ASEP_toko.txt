@@ -1,0 +1,7 @@
+
+Asep123,Serba Enak
+MoonCake, Kueh berbentuk Bulan,30000,s
+BananaCake,Kueh Berbentuk Pisang,50000,m
+StrawBerry Hojicha,Kue Hojicha yang dibumburi strawberry,80000,m
+Chocolate Cake,Kue yang dilumuri cokelat yang lezat,100000,l
+Pineapple Sunshine Cake, Kue yang berasa nanas pilihan segar,60000,m

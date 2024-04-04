@@ -1,0 +1,296 @@
+## Tampilan Awal ##
+
+==================================
+	
+        *   *   *   *   *
+        |   |   |   |   |
+	*********************
+	*                   *
+	*                   *
+   ***************************
+   *                         *
+   *~~~~~~~ EJS BAKERY ~~~~~~*
+   *                         *
+   ***************************
+
+----------------------------------
+	Welcome To EJS Bakery :D
+----------------------------------
+
+0. Sign In
+
+( Setelah memilih Sign In)
+	========================
+		| Sign In |
+
+	  Username/email : 
+	  Password :
+	  
+	  (jika username / email / password salah)
+  | Salah Username atau email atau Password |
+	  (akan diminta kembali memasukkan username,dll)
+
+1. Sign Up
+
+(setelah memilih sign Up)
+	=============================
+     		| Sign Up |
+	  Username 			 : 
+	  Password 			 :
+	  Email 		       :
+	  Role (penjual/pembeli) :
+	  0. Submit
+			
+		# Role jika dipilih penjual
+	  	Role 
+		----------------------- 
+		Nama toko :	
+		Desc :
+		0. Submit
+
+	 Selamat Akun Sudah Dibuat 
+	( setelah itu dialihkan ke halaman awal kmbali)
+		
+		
+Pilihan anda :
+Jika belum memiliki akun, ketikan 1 untuk membuat akun
+
+## Tampilan Penjual ##
+=============================================================
+EJS Store 						Welcome! (Nama Toko)         			
+=============================================================
+
+(Nama toko)
+0. Pemesanan
+	=======================================
+		| Pesanan yang anda terima |
+
+	Nama Pembeli :
+	Nama Produk :
+	Kategori (A/B/C/D/E) :
+	Ukuran :
+	Harga :
+
+1. Produk yang tersisa
+	===========================================
+		  | Produk yang tersisa |
+	
+	Nama Produk : 
+	Kategori (A/B/C/D/E) :
+	Jumlah Produk :
+
+2. Masukan Produk Baru
+	====================================
+	 | Produk yang akan ditambahkan : |
+
+	0. Produk Standar
+	Masukan Pilihan anda :
+
+		# Produk Standar
+
+		====================================
+		| Produk Standar yang akan ditambahkan  |
+
+	   	 Nama Produk : 
+	    	 Deskripsi Produk :
+	    	 Harga Produk : --> harga untuk ukuran s,m,l
+	    	 Kategori (A/B/C/D/E) :
+	   	 Jumlah barang :
+
+3. Produk yang telah terjual :
+	=======================================
+		| Produk yang telah terjual  |
+
+	Nama Pembeli :
+	Nama Produk :
+	Kategori (A/B/C/D/E) :
+	Harga :
+
+4. Back (Log Out)
+Hal apa yang anda ingin lakukan :
+
+## Tampilan User (pembeli) ##
+==============================================================
+EJS Store 					q	Welcome! (Nama User)         			
+==============================================================
+
+0. Profile
+
+	Profile
+	>>>>>>>>>>>>>>>>>>>>>>>>
+	(Nama User)
+	------------------------
+	ESP Pay | Rp.0,00 |
+	------------------------
+	
+	0. History 
+	_________________________
+		
+		History
+		----------------------
+		1. (Nama Barang)
+		   Kategori :
+		   Harga :
+
+		2. Back
+
+	1. My Account
+	_________________________	
+		
+		My Account
+		---------------------
+		Nama : ()
+		Email : ()
+		0. Back
+		
+		
+	2. My Voucher
+	_________________________
+		
+		My Voucher
+		---------------------
+		1. a (desc)
+		2. b (desc)
+		3. c (desc)
+		4. Back
+
+	3. Isi ESP Pay
+	_________________________
+		
+		ESP Pay
+		-----------------------
+		0. Top Up : Rp. xxx.xxx.xxx,00
+		1. Back
+
+	4. Back
+	_________________________
+	Hal yang anda ingin lakukan :
+
+1. Home
+
+	Home
+	>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+	0. For You
+	* (nama barang - nama toko)
+	* (nama barang - nama toko)
+	* (nama barang - nama toko)
+
+	1. Best
+	* (nama barang - nama toko)
+	* (nama barang - nama toko)
+	* (nama barang - nama toko)
+
+	2. New	
+	* (nama barang - nama toko)
+	* (nama barang - nama toko)
+	* (nama barang - nama toko)
+	3. Back
+
+2. Shops
+
+	Shops
+	>>>>>>>>>>>>>>>>>>>>>>>>>>
+	0. Produk Reguler
+
+		0.	(Nama Barang)
+		  	(Nama Toko Penjual)
+	 	   	Kategori : (A/B/C/D/E)
+		  	 Harga : Rp.xxx.xxx,00
+		   	Desc:
+		   	(...)
+	
+			0. Masukkan keranjang
+			1. Like
+			2. Check Penjual
+			Pilih yang anda ingin lakukan :
+			(setelah mengclick check penjual/toko)
+
+				(Nama Toko Penjual)
+				(desc)
+				------------------------
+				0. a
+				1. b
+				2. c
+				3. d
+				(setelah mengclick akan muncul awal shop lagi)
+		1. ...
+		2. Back
+		Pilih yang anda ingin lakukan :
+
+	1. Produk Custom 
+
+		# Produk Custom
+		====================================
+		| Produk Custom  sesuai keinginan |
+
+	  	Nama Produk : 
+	   	Deskripsi Produk :
+	    	Harga Produk : --> harga per produk	
+	   	Jumlah Barang :
+	2. Back
+	Pilih yang anda ingin lakukan :
+
+3. Category
+
+	Category
+	>>>>>>>>>>>>>>>>>>>>>>>>>>
+	
+	A
+	--------------------------
+		0.(Nama Barang)
+			(Nama Toko Penjual)
+			Kategori : A
+			Harga : Rp.xxx.xxx,00
+			Desc:
+			(...)
+	
+			0. Masukkan keranjang
+			1. Check Penjual
+			Pilih yang anda ingin lakukan :
+			(setelah mengclick check penjual/toko)
+		
+				(Nama Toko Penjual)
+				(desc)
+				------------------------
+				0. a
+				1. b
+				2. c
+				3. d
+				(setelah mengclick akan muncul awal shop lagi)
+		1. ...
+		2. Back
+		Pilih yang anda ingin lakukan :
+
+	B
+	--------------------------
+	C
+	--------------------------
+	Pilih yang anda ingin lakukan :
+	
+5. Cart
+
+	Cart
+	>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+	1. X item Rp. xxx.xxx,00 desc ()
+	2. Y item Rp. xxx.xxx,00 desc ()
+
+	Total Item |   |
+	--------------------------------
+	0. Bayar
+
+		Pembayaran
+		>>>>>>>>>>>>>>>>>>>>>>>>>>
+		1. Bayar pakai ESP Pay
+		
+		(kalau tidak cukup dananya)
+		Maaf Dana ESP anda tidak Cukup Rp. sekian
+		0. Isi ESP Pay (diarahkan ke profile)
+		Pilih yang anda ingin lakukan :
+	
+	1. Back
+	Pilih yang anda ingin lakukan :
+	
+
+6. Back

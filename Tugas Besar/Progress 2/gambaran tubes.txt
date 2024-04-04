@@ -1,0 +1,88 @@
+#Tampilan Awal
+
+=================================
+	
+        *   *   *   *   *
+        |   |   |   |   |
+	*********************
+	*                   *
+	*                   *
+   ***************************
+   *                         *
+   *~~~~~~~ EJS BAKERY ~~~~~~*
+   *                         *
+   ***************************
+---------------------------------
+Welcome 
+0. Sign In
+( Setelah memilih Sign Up)
+	========================
+		 Sign In
+	  Username : 
+	  Password :
+
+1. Sign Up
+(setelah memilih sign Up)
+	=============================
+     		    Sign Up
+	  Username 			 : 
+	  Password 			 :
+	  Role (penjual/pembeli) :
+
+Pilihan anda :
+
+Jika belum memiliki akun, ketikan 1 untuk membuat akun
+
+
+# Tampilan Penjual 
+
+Nama : (Nama penjual)
+0. Pesananan 
+	=======================================
+		Pesanan yang anda terima
+	Nama Pembeli :
+	Nama Produk :
+	Ukuran :
+	Harga :
+
+1. Produk yang tersisa
+	===========================================
+	     Produk yang tersisa 
+
+	     Nama Produk : 
+	     Jumlah Produk :
+
+2. Masukan Produk Baru
+	====================================
+	    Produk yang akan ditambahkan :
+		0. Produk Standar 
+		1. Produk Custom 
+
+	    Masukan Pilihan anda :
+
+# Produk Standar
+	====================================
+	Produk Standar yang akan ditambahkan  
+	    Nama Produk : 
+	    Deskripsi Produk :
+	    Harga Produk : --> harga untuk ukuran s,m,l
+	    Jumlah barang :
+
+# Produk Custom
+	====================================
+	Produk Custom yang akan ditambahkan  
+	    Nama Produk : 
+	    Deskripsi Produk :
+	    Harga Produk : --> harga per produk
+	    Jumlah Barang :
+
+3. Produk yang telah terjual :
+	=======================================
+		Produk yang telah terjual
+	Nama Pembeli :
+	Nama Produk :
+	Ukuran :
+	Harga :
+4. Kembali
+Hal apa yang anda ingin lakukan :
+

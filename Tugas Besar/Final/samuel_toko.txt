@@ -1,0 +1,7 @@
+
+Sanskuy,Menjual kue dengan berbagai rasa
+Mocha Cake,Kue rasa mocha yang lezat dan rasanya pas,70000,m
+Summer Berries Entremet,Kue berisi rasa berbagai berry,85000,m
+Nastar Cake,Kue dilapisi pinggiran rasa nastar yang lezat,60000,s
+Strawberry Fresh Cream Cake, Kue rasa strawberry dilapisi cream,95000,m
+Kaastengels Cake, Kue dengan perpaduan bolu yang lembut dan kastengel renyah,120000,m

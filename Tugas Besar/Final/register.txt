@@ -1,0 +1,6 @@
+elmo,123,elmo123@gmail.com,pembeli
+ASEP,123,123,penjual
+samuel,123,sam,penjual
+emily,123,emily@gmail.com,pembeli
+test,123,test123@gmail.com,pembeli
+tesing,321,testing@gmail.com,penjual
