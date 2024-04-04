@@ -13,10 +13,8 @@ Pembelajaran Utama :
 <li>Pemecahan Masalah: Memulai memecahkan tantangan coding menjadi langkah-langkah yang lebih kecil.</li>
 <br>
 Ada pun project besar di mana waktu itu membuat sebuah toko dengan tema tertentu dengan kelompok untuk membuat : 
-
 <br><li>Sebuah Toko Bakery</li>
 <br>
-
 Filosofinya :
 
 Nama dari aplikasi yang kami buat adalah EJS Bakery. EJS Bakery merupakan sebuah aplikasi yang 
