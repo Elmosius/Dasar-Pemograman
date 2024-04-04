@@ -11,10 +11,10 @@ Pembelajaran Utama :
 <li>Alur Kontrol: Membuat keputusan dengan if, else dan loop bersyarat (for, while).</li>
 <li>Fungsi: Membuat blok kode yang bisa digunakan kembali untuk mengorganisir program.</li>
 <li>Pemecahan Masalah: Memulai memecahkan tantangan coding menjadi langkah-langkah yang lebih kecil.</li>
+<br>
+Ada pun project besar di mana waktu itu membuat sebuah toko dengan tema tertentu dengan kelompok untuk membuat : 
 
-Ada pun project besar di mana waktu itu membuat sebuah toko dengan tema tertentu dengan kelompok untuk membuat :
-
-<li>Sebuah Toko Bakery</li>
+<br><li>Sebuah Toko Bakery</li>
 <br>
 
 Filosofinya :
@@ -25,7 +25,7 @@ nama pembuat aplikasi yaitu E (Elmo), J(Joseph), dan S(Samuel) dan mengaitkan de
 yang dapat dijual pada aplikasi kami. Kami menamakan aplikasi kami EJS Bakery. 
 <br>
 
-Media Penyimpanan : 
+Media Penyimpanan (belum pakai database) : 
 
 Media penyimpanan yang kami gunakan ialah file text document atau .txt karena file .txt cukup 
 mudah untuk digunakan dan referensi yang ada cukup banyak. Selain itu juga, file txt memiliki 
