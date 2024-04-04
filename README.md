@@ -1,5 +1,5 @@
 # Dasar-Pemograman
-Rekap Belajar Pemograman 2023
+Rekap Belajar Matakuliah Pemograman 2023 - Python
 
 
 Repositori ini mendokumentasikan kemajuan dan perkembangan saya selama mengikuti matakuliah Dasar-Pemrograman 2023 dengan fokus pada bahasa pemrograman Python.
