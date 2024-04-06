@@ -4,7 +4,7 @@ Rekap Belajar Matakuliah Pemograman 2023 - Python
 
 Repositori ini mendokumentasikan kemajuan dan perkembangan saya selama mengikuti matakuliah Dasar-Pemrograman 2023 dengan fokus pada bahasa pemrograman Python.
 
-Pembelajaran Utama :
+## 📚Pembelajaran Utama :
 
 - Variabel dan Tipe Data: Memahami bagaimana menyimpan data menggunakan tipe berbeda seperti integer, string, dan boolean.
 - Operator: Melakukan kalkulasi, perbandingan, dan operasi logika.
@@ -12,7 +12,7 @@ Pembelajaran Utama :
 - Fungsi: Membuat blok kode yang bisa digunakan kembali untuk mengorganisir program.
 - Pemecahan Masalah: Memulai memecahkan tantangan coding menjadi langkah-langkah yang lebih kecil.
 
-Ada pun project besar di mana waktu itu membuat sebuah toko dengan tema tertentu : 
+## 🔍 Ada pun project besar : 
 - Sebuah Toko Bakery
   
 Filosofinya :
