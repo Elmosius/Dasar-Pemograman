@@ -1,4 +1,4 @@
-# Dasar-Pemograman
+# 🚀Dasar-Pemograman
 Rekap Belajar Matakuliah Pemograman 2023 - Python
 
 
@@ -6,15 +6,15 @@ Repositori ini mendokumentasikan kemajuan dan perkembangan saya selama mengikuti
 
 Pembelajaran Utama :
 
-<li>Variabel dan Tipe Data: Memahami bagaimana menyimpan data menggunakan tipe berbeda seperti integer, string, dan boolean.</li>
-<li>Operator: Melakukan kalkulasi, perbandingan, dan operasi logika.</li>
-<li>Alur Kontrol: Membuat keputusan dengan if, else dan loop bersyarat (for, while).</li>
-<li>Fungsi: Membuat blok kode yang bisa digunakan kembali untuk mengorganisir program.</li>
-<li>Pemecahan Masalah: Memulai memecahkan tantangan coding menjadi langkah-langkah yang lebih kecil.</li>
-<br>
-Ada pun project besar di mana waktu itu membuat sebuah toko dengan tema tertentu dengan kelompok untuk membuat : 
-<br><li>Sebuah Toko Bakery</li>
-<br>
+- Variabel dan Tipe Data: Memahami bagaimana menyimpan data menggunakan tipe berbeda seperti integer, string, dan boolean.
+- Operator: Melakukan kalkulasi, perbandingan, dan operasi logika.
+- Alur Kontrol: Membuat keputusan dengan if, else dan loop bersyarat (for, while).
+- Fungsi: Membuat blok kode yang bisa digunakan kembali untuk mengorganisir program.
+- Pemecahan Masalah: Memulai memecahkan tantangan coding menjadi langkah-langkah yang lebih kecil.
+
+Ada pun project besar di mana waktu itu membuat sebuah toko dengan tema tertentu : 
+- Sebuah Toko Bakery
+  
 Filosofinya :
 
 Nama dari aplikasi yang kami buat adalah EJS Bakery. EJS Bakery merupakan sebuah aplikasi yang 
